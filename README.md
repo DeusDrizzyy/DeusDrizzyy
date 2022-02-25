@@ -1,12 +1,12 @@
 <div>
-   <h1 align="center">Oi, Tudo bem? Eu sou o <a href="https://github.com/DeusDrizzyy">Nicolas Lima</a>. 😃️</h1>
-   <p align="center">Gosto de explorar o mundo da informática e de criar bots para o Discord.<br/>Você não irá encontrar muitos projetos, geralmente são privados por ser de clientes ou não estão no GitHub.</p>
+   <h1 align="center">Hi, how are you? I'm <a href="https://github.com/DeusDrizzyy">DeusDrizzyy</a>. 😃️</h1>
+   <p align="center">I enjoy exploring the world of computer science and creating bots for Discord.<br/>You won't find many projects, they are usually private because they are from customers or are not on GitHub.</p>
 </div>
 
 <div align="center">
    <a href="https://github.com/DeusDrizzyy">
-      <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DeusDrizzyy&show_icons=true&theme=github_dark&include_all_commits=true&show_owner=true&count_private=true&custom_title=Estatísticas GitHub%20-%20DeusDrizzyy"/>
-      <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeusDrizzyy&layout=compact&langs_count=7&theme=github_dark&custom_title=Linguagens%20mais%20utilizadas:"/>
+      <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DeusDrizzyy&show_icons=true&theme=github_dark&include_all_commits=true&show_owner=true&count_private=true&custom_title=GitHub Statistics%20-%20DeusDrizzyy"/>
+      <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeusDrizzyy&layout=compact&langs_count=7&theme=github_dark&custom_title=Most%20Used%20Languages:"/>
    </a>
 </div>
 
