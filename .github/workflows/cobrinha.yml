@@ -10,6 +10,8 @@ jobs:
     name: Jobs to update datas
     runs-on: ubuntu-latest
     steps:
+      - name: Create output directory
+        run: mkdir -p dist
       - uses: Platane/snk@v3
         id: snake-gif
         with:
